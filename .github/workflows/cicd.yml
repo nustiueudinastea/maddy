@@ -10,11 +10,13 @@ on:
 jobs:
   build-and-test:
     name: "Build and test"
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: "Install libpam"
-      run: sudo apt-get install -y libpam-dev
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libpam-dev
     - uses: actions/cache@v2
       with:
         path: |
