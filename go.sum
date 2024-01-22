@@ -495,8 +495,6 @@ github.com/libdns/cloudflare v0.1.1-0.20221006221909-9d3ab3c3cddd h1:c5hc0b5/pFq
 github.com/libdns/cloudflare v0.1.1-0.20221006221909-9d3ab3c3cddd/go.mod h1:ob9J/elFVmPWKNHOMynwtH0h+T3pBrEL18amCSliwAQ=
 github.com/libdns/digitalocean v0.0.0-20220518195853-a541bc8aa80f h1:Y0JkwI0Uip+Zrh71aHLmNz150cKnWuC+535v/zLS8zo=
 github.com/libdns/digitalocean v0.0.0-20220518195853-a541bc8aa80f/go.mod h1:B2TChhOTxvBflpRTHlguXWtwa1Ha5WI6JkB6aCViM+0=
-github.com/libdns/gandi v1.0.3-0.20220921161957-dcd0274d2c79 h1:s5zuoIehXkSKg6Yfd5Oh1jEfvWXSn+eAttVHufSzDPE=
-github.com/libdns/gandi v1.0.3-0.20220921161957-dcd0274d2c79/go.mod h1:VN+Lh8Teq6nYszNsPSLKdIv24hOCcQu0rJWHQa2jPZc=
 github.com/libdns/googleclouddns v1.1.0 h1:murPR1LfTZZObLV2OLxUVmymWH25glkMFKpDjkk2m0E=
 github.com/libdns/googleclouddns v1.1.0/go.mod h1:3tzd056dfqKlf71V8Oy19En4WjJ3ybyuWx6P9bQSCIw=
 github.com/libdns/hetzner v0.0.1 h1:WsmcsOKnfpKmzwhfyqhGQEIlEeEaEUvb7ezoJgBKaqU=
@@ -560,6 +558,8 @@ github.com/netauth/netauth v0.6.2-0.20220831214440-1df568cd25d6 h1:TsF5Cl0Mj5JMv
 github.com/netauth/netauth v0.6.2-0.20220831214440-1df568cd25d6/go.mod h1:4PEbISVqRCQaXaDAt289w3nK9UhoF8/ZOLy31Hbv7ds=
 github.com/netauth/protocol v0.0.0-20210918062754-7fee492ffcbd h1:4yVpQ/+li28lQ/daYCWeDB08obRmjaoAw2qfFFaCQ40=
 github.com/netauth/protocol v0.0.0-20210918062754-7fee492ffcbd/go.mod h1:wpK5wqysOJU1w2OxgG65du8M7UqBkxzsNaJdjwiRqAs=
+github.com/nustiueudinastea/gandi-libdns v0.0.0-20240122120009-559bd195ab8b h1:CLCDhfEIsYyjr1Wvc6HHJ3+gOlGeVch68e+aCFx5anM=
+github.com/nustiueudinastea/gandi-libdns v0.0.0-20240122120009-559bd195ab8b/go.mod h1:VN+Lh8Teq6nYszNsPSLKdIv24hOCcQu0rJWHQa2jPZc=
 github.com/pelletier/go-toml/v2 v2.0.8 h1:0ctb6s9mE31h0/lhu+J6OPmVeDxJn+kYnJc2jZR9tGQ=
 github.com/pelletier/go-toml/v2 v2.0.8/go.mod h1:vuYfssBdrU2XDZ9bYydBu6t+6a6PYNcZljzZR9VXg+4=
 github.com/pierrec/lz4 v2.5.2+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi+IEE17M5jbnwPHcY=

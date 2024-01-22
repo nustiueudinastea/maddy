@@ -2,11 +2,6 @@ module github.com/foxcpp/maddy
 
 go 1.19
 
-replace (
-	github.com/caddyserver/certmagic => /certmagic
-)
-
-
 require (
 	blitiri.com.ar/go/spf v1.5.1
 	github.com/GehirnInc/crypt v0.0.0-20230320061759-8cc1b52080c5
@@ -165,3 +160,5 @@ require (
 )
 
 replace github.com/emersion/go-imap => github.com/foxcpp/go-imap v1.0.0-beta.1.0.20220623182312-df940c324887
+
+replace github.com/libdns/gandi => github.com/nustiueudinastea/gandi-libdns v0.0.0-20240122120009-559bd195ab8b
